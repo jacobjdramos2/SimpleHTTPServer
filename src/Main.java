@@ -27,7 +27,7 @@ public class Main {
                 line = reader.readLine();
             }
 
-            // 2. Prepare an HTTP response
+            // 2. Preparing an HTTP response
             Date today = new Date();
             String httpResponse = "HTTP/1.1 200 OK\r\n\r\n" + today;
 
