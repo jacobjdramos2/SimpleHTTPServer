@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="232fccbd-1e08-4728-ad97-a78a647053f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleHTTPServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="232fccbd-1e08-4728-ad97-a78a647053f8" name="Changes" comment="Set up simple http server. Read and listens for requests, preparing and sending responses to client." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +40,27 @@
       <option name="presentableId" value="Default" />
       <updated>1729983283001</updated>
     </task>
+    <task id="LOCAL-00001" summary="Set up simple http server. Read and listens for requests, preparing and sending responses to client.">
+      <option name="closed" value="true" />
+      <created>1730065785734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730065785734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Set up simple http server. Read and listens for requests, preparing and sending responses to client.">
+      <option name="closed" value="true" />
+      <created>1730065806265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730065806265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set up simple http server. Read and listens for requests, preparing and sending responses to client." />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up simple http server. Read and listens for requests, preparing and sending responses to client." />
   </component>
 </project>
